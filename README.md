@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taralloxx&count_private=true&show_icons=true&theme=radical)
 
-<img scr="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
