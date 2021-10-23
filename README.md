@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taralloxx&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taralloxx&layout=compact&theme=tokyonight)](https://github.com/taralloxx/github-readme-stats)
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taralloxx&theme=tokyonight)](https://taralloxx.github.io/idk/src/index)
+
 
