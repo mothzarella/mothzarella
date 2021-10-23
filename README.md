@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taralloxx&count_private=true&show_icons=true&theme=radical)
 
-![GitHub Stats](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![GitHub Stats](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=fff)
-![GitHub Stats](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=fff)
+<img scr="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
